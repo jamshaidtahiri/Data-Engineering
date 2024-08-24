@@ -14,3 +14,7 @@ for name, languages in favorite_languages.items():
         print(f'{name} favorite languages are: ')
     for index, language in enumerate(languages):
         print(f'{index}  {language}')
+        
+print('\n')
+
+print('sdfsdf','asffdf')
